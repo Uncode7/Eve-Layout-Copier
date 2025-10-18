@@ -25,6 +25,10 @@ It allows you to **clone window layouts**, **save configurations between profile
 6. Manage profiles via `+` and `−` buttons (e.g., create `settings_Mining`).
 7. All backups are automatically stored in the folder `eve layout backup`.
 
+OR
+
+https://youtu.be/AMZPskW9Ok0
+
 ---
 
 ## 🧩 Requirements
