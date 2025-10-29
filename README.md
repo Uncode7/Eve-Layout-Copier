@@ -1,6 +1,3 @@
-Here you go—short, GitHub-ready and all in English.
-
----
 
 # EVE Layout Copier – v3.9 (EVE Lacop)
 
